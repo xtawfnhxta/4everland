@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<p>Hello 大家好</p>
 
-You can use the [editor on GitHub](https://github.com/xtawfnhxta/4everland/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<p>我是链天台 </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<p>很高兴你来到这里, 我是一名区块链博主，如果你也喜欢我的文字，可以添加我的微信号：xtawfnh</p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xtawfnhxta/4everland/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<ul>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<li> <a href="https://mp.weixin.qq.com/s/Nd2RQKen8ZbBIBFcrlXrfg">这是我最近写的一篇文章|《Staking的自轻与StaFi的迷思》</a> </li>
+
+
+
+<li> <a href="https://mp.weixin.qq.com/s/Nd2RQKen8ZbBIBFcrlXrfg">如果你喜欢的话，请点一个关注哦</a> </li>
+
+
+
+</ul>
